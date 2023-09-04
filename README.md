@@ -1,0 +1,2 @@
+# nothingbruh
+SwiftCord Raid Tool
