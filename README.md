@@ -1,4 +1,4 @@
 # 😎 Swiftcord Raid Tool 😎
-![cant load image](https://i.imgur.com/fbunsGs.png)  
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://streamable.com/p343zy))](https://streamable.com/p343zy)
 
 # **Buy swiftcord for 5$ here: discord.gg/arkoselabs**
